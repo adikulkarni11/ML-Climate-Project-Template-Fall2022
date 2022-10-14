@@ -8,3 +8,7 @@ Earlier this year, I pondered upon an [web article](https://sustainabilitymag.co
 In the same article, Nvidia stated that they reduced their emissions by 15% per employee and set a goal to have 65% of its global electricity use come from renewable sources by the end of 2025. Along these lines, I decided to do my project regarding modeling GPU efficiency and how that ties into future energy consumption.
 
 At the moment, I have been looking for a dataset for this task. I could curate my own dataset but I believe it would be too small to create valid and accurate predictions.
+
+### 10/14/22 
+
+After further research, I have realized that my initial project that included GPU data is extremely hard to find. So, I have deviated my project. My new project involves
