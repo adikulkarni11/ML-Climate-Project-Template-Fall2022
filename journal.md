@@ -1,4 +1,4 @@
-# Project Project Jouranl
+# Project Project Journal
 
 
 ### 10/4/22
@@ -11,4 +11,4 @@ At the moment, I have been looking for a dataset for this task. I could curate m
 
 ### 10/14/22 
 
-After further research, I have realized that my initial project that included GPU data is extremely hard to find. So, I have deviated my project. My new project involves
+After further research, I have realized that my initial project that included GPU data is extremely hard to find. So, I have deviated my project. My new project does still involve household emissions but in terms of CO2 equivalent. The data I have collected is from https://stats.oecd.org/Index.aspx?DataSetCode=air_ghg#. The project will put an emphasis on emissions from the residential sector. In addition, I will compare trends over time from 1990 to 2020 and observe how policies and laws have added value/ altered the charts. Further, using machine learning I will predict emissions for the current year and future.
