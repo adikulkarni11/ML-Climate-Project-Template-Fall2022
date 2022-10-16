@@ -1,4 +1,4 @@
-# Project Project Journal
+# ML and Climate Project Journal
 
 
 ### 10/4/22
