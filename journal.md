@@ -18,3 +18,10 @@ After further research, I have realized that my initial project that included GP
 The project is divided into two main phases: 
 - Observing Trends in various countries CO2 emissions over time (1990-2020) and analyse climate policies to uncover trends and ties.
 - Predict future emission data (2021,2022 and 2050) and inspect course.
+
+### 10/31/22
+
+Currently, I have been able to acquire emission data from 56 different countries. Speicifically, each of these countries have emission data from the year 1990 to 2020.
+Further, I have generated charts of several of these countries which will benefit when I case study certain regions of the globe. For instance, I have already been able to compare climate change laws of countries such as Denmark and United States to observe patterns.
+
+The next steps is a deep analysis of this law and emission relationship. 
