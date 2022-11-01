@@ -22,6 +22,6 @@ The project is divided into two main phases:
 ### 10/31/22
 
 Currently, I have been able to acquire emission data from 56 different countries. Speicifically, each of these countries have emission data from the year 1990 to 2020.
-Further, I have generated charts of several of these countries which will benefit when I case study certain regions of the globe. For instance, I have already been able to compare climate change laws of countries such as Denmark and United States to observe patterns.
+Further, I have generated charts of several of these countries which will benefit when I case study certain regions of the globe. For instance, I have already been able to compare climate change laws of countries such as Denmark and United States to observe patterns. In addition, I have a few side by side graph analysis already done (See case_study_1.png in src folder). 
 
 The next steps is a deep analysis of this law and emission relationship. 
