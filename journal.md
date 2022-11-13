@@ -25,3 +25,7 @@ Currently, I have been able to acquire emission data from 56 different countries
 Further, I have generated charts of several of these countries which will benefit when I case study certain regions of the globe. For instance, I have already been able to compare climate change laws of countries such as Denmark and United States to observe patterns. In addition, I have a few side by side graph analysis already done (See case_study_1.png in src folder). 
 
 The next steps is a deep analysis of this law and emission relationship. 
+
+### 11/13/22
+
+Over the last week, I have been looking into climate changes laws that have been passed within the last few years to predict the outcome or impact of it by 2025. In specific, I have looked into India, the USA, and Denmark. India for example had published their National Action Plan on Climate Change in 2008 which outlines eight “national missions" including solar, energy efficiency, sustainable habitat. There was a drastic decrease after this law. In 2022, India officially submitted its updated Nationally Determined Contributions (NDC) targets, having first announced them at COP26. Using this data, I am predicting their CO2e by 2025. I am currently finding deep relationships for Denmark and its laws before I start modeling using machine learning. Code will be provided next journal entry.
