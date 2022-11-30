@@ -33,3 +33,12 @@ Over the last week, I have been looking into climate changes laws that have been
 ### 11/25/22
 
 So far, I have generated two different types of models. Firstly, using the NeuralProphet API, I am modeling the CO2e emissions in the form of a yearly time series data. Although this is giving out great results, for some countries, I do see a slight discrepancy between the prediction and actual results as this is solely based on the Univariate data. On the other hand, I am modeling using Linear Regression specifically designed for univariate non-stationary (increasing) data. This seems to be a great way of predicting future emmissions as well.
+
+
+### 11/30/22
+
+I have analysed and plotted data in the form of two additional case studies:
+ - I am comparing 4 countires most affected by climate change to its emission data to see how if emission data alone is an ideal indicator.
+ - Displaying the 4 countries most resilient to climate change and rationalizing the reason of them being ranked so high.
+
+
