@@ -42,3 +42,11 @@ I have analysed and plotted data in the form of two additional case studies:
  - Displaying the 4 countries most resilient to climate change and rationalizing the reason of them being ranked so high.
 
 
+### 12/5/22
+
+Implemented functions that parse through data and find:
+- countries most vulnerable to climate change
+- countries which most percentage increase/ decrease in emissions
+- adding in ARIMA model for forecasting
+- TODO: more detail on climate laws for specific countries
+
