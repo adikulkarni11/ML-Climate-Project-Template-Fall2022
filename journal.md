@@ -50,3 +50,8 @@ Implemented functions that parse through data and find:
 - adding in ARIMA model for forecasting
 - TODO: more detail on climate laws for specific countries
 
+### 12/14/22
+
+- Adding in augmented data
+- Continuing BERT exploration to add in extra stream of data
+- Starting writing final paper 
