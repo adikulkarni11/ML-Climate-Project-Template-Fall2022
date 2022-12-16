@@ -55,3 +55,8 @@ Implemented functions that parse through data and find:
 - Adding in augmented data
 - Continuing BERT exploration to add in extra stream of data
 - Starting writing final paper 
+
+
+### 12/15/22
+- Final Github upload- pushing several graph images and code.
+- Submitted final paper!
